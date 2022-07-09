@@ -1,0 +1,13 @@
+.row{
+    padding: 30px;
+    background-color: blanchedalmond;
+}
+
+.contenedor{
+    width: auto;
+}
+
+.primeraparte, .segundaparte{
+    display: inline-block;
+    text-align: justify;
+}
